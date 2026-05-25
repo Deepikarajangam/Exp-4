@@ -17,7 +17,8 @@ To create Hospital Management System software that will meet the needs of the ap
 
 ## SEQUENCE DIAGRAM:
 
-<img width="1128" height="814" alt="image" src="https://github.com/user-attachments/assets/9df3cef4-23b4-4d65-a139-31c661c895d5" />
+<img width="993" height="807" alt="image" src="https://github.com/user-attachments/assets/64cb6075-7f0d-4403-b46a-3f4545511355" />
+
 ## COMMUNICATION DIAGRAM:
 
 <img width="1238" height="903" alt="image" src="https://github.com/user-attachments/assets/de917241-d49a-4bb6-9750-c51e4e04809f" />
