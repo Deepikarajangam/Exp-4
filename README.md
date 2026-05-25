@@ -9,9 +9,12 @@ To create Hospital Management System software that will meet the needs of the ap
 <img width="1181" height="860" alt="image" src="https://github.com/user-attachments/assets/a48a4722-d6b5-462f-af34-c0065ba36cdb" />
 ## CLASS DIAGRAM:
 <img width="1160" height="835" alt="image" src="https://github.com/user-attachments/assets/4279897f-70ff-47ff-872e-434cf43e97c6" />
-## PACKAGE DIAGRAM:
 
+
+## PACKAGE DIAGRAM:
 <img width="1128" height="814" alt="image" src="https://github.com/user-attachments/assets/3acab5ac-5a58-4e5d-8118-15dbe29c5e7b" />
+
+
 ## SEQUENCE DIAGRAM:
 
 <img width="1128" height="814" alt="image" src="https://github.com/user-attachments/assets/9df3cef4-23b4-4d65-a139-31c661c895d5" />
